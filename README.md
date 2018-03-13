@@ -1,2 +1,7 @@
 # curly-doodle
-Hello Java
+HelloJava
+public class HelloJava{
+      public static void main(string[] args){
+                  system.out.println("Hello, Java!");
+                                          }
+                       }
